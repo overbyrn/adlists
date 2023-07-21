@@ -1,0 +1,3 @@
+# Pi-Hole Personal Custom Blocklist
+#
+0.0.0.0 ingest.sentry.io
