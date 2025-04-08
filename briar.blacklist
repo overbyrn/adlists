@@ -1,3 +1,8 @@
 # Pi-Hole Personal Custom Blocklist
 #
+# Can be in any of following formats;
+# 0.0.0.0 www.example.com
+# 127.0.0.1 www.example.com
+# www.example.com
+
 0.0.0.0 ingest.sentry.io
