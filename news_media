@@ -1,3 +1,10 @@
+# News Media Endpoints
+#
+# Can be in any of following formats;
+# 0.0.0.0 www.example.com
+# 127.0.0.1 www.example.com
+# www.example.com
+
 0.0.0.0 dcf.espn.com
 0.0.0.0 s.abcnews.com
 0.0.0.0 pef6729123-9d45-423a-9e90-5aece59332d0-54-91-31-171.fastcast.semfs.engsvc.go.com
