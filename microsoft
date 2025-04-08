@@ -1,3 +1,10 @@
+# Microsoft Endpoints
+#
+# Can be in any of following formats;
+# 0.0.0.0 www.example.com
+# 127.0.0.1 www.example.com
+# www.example.com
+
 config.teams.microsoft.com
 ctldl.windowsupdate.com
 devicelistenerprod.microsoft.com
